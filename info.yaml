@@ -7,7 +7,7 @@ project:
   language: "Verilog"
   clock_hz: 10000000
   tiles: "1x1"
-  top_module: "tt_um_jarin_racm"
+  top_module: "tt_um_shabiha123455_racm"
   source_files:
     - "project.v"
     - "racm_activity_monitor.v"

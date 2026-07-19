@@ -11,7 +11,7 @@ module tb;
     reg        clk;
     reg        rst_n;
 
-    tt_um_jarin_racm dut (
+    tt_um_shabiha123455_racm dut (
         .ui_in  (ui_in),
         .uo_out (uo_out),
         .uio_in (uio_in),
